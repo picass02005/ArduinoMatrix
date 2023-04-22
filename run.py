@@ -1,3 +1,3 @@
-from Examples.digital_clock import DigitalClock
+from Examples.binary_clock import BinaryClock
 
-DigitalClock().run()
+BinaryClock().run()
